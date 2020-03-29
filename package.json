@@ -1,0 +1,24 @@
+{
+  "name": "webslide",
+  "version": "1.0.0",
+  "description": "Serving up static files html, css,js to the browser by NodeJS and express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Web-server",
+    "NodeJS",
+    "express",
+    "HTML",
+    "CSS",
+    "Webslides",
+    "presentation",
+    "slide"
+  ],
+  "author": "Shashi Kant Yadav",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
